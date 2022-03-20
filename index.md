@@ -5,7 +5,7 @@ title: maxAlone Lab
 # Service Area
 * this github space serves as a crossover for the study assets behind the demos in the Tangram.page space
 * visit my linkedIN profile for more information and to know what I am focused on
-
+* * *
 ## Posts
 <ul>
   {% for post in site.posts %}
@@ -14,7 +14,7 @@ title: maxAlone Lab
     </li>
   {% endfor %}
 </ul>
-
+* * *
 ## Tags
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>

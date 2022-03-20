@@ -1,6 +1,5 @@
 ---
-title: [maxAlone Lab]
-description: [last but not least gitlab]
+title: maxAlone Lab
 ---
 
 # Service Area

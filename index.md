@@ -8,6 +8,7 @@ title: maxAlone Lab
 
 ![](./video/target_transfer.mp4)
 
+
 * * *
 
 ## Posts

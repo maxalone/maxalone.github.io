@@ -6,7 +6,7 @@ title: maxAlone Lab
 * this github space serves as a crossover for the study assets behind the demos in the Tangram.page space
 * visit my linkedIN profile for more information and to know what I am focused on
 
-![](./video/target_transfer.webm)
+![](./video/target_transfer.mov)
 
 
 * * *
